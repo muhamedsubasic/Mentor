@@ -1,0 +1,8 @@
+{
+    "name": "mentor/mentor-backend",
+    "description": "Mentor project - Online courses and 1-on-1 tutoring platform",
+    "type": "project",
+    "require": {
+        "php": ">=8.2"
+    }
+}

@@ -1,0 +1,3 @@
+
+# Ignore config.php file
+backend/config/config.php
