@@ -24,3 +24,14 @@
    *How noticed:* Animations were not played for each page.
 
    *Fix:* .
+
+## Milestone 2 - Database and DAO Layer
+
+**Tools used:** Deepseek
+
+**Most important prompts**
+- "Using mentor.sql create an updated image of entity relationship diagram"
+
+**Cases where the AI was wrong**
+
+1. No issues with creation
