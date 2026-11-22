@@ -25,4 +25,15 @@ class Config
         $value = getenv($name);
         return ($value !== false && trim($value) !== '') ? $value : $default;
     }
+
+    public static function EXCHANGE_API_KEY(): string
+    {
+        return self::get_env('EXCHANGE_API_KEY', 'your-key-here');
+    }
+
+    public static function EXCHANGE_API_BASE(): string
+    {
+        return 'https://v6.exchangerate-api.com/v6';
+    }
+
 }
