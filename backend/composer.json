@@ -3,6 +3,8 @@
     "description": "Mentor project - Online courses and 1-on-1 tutoring platform",
     "type": "project",
     "require": {
-        "php": ">=8.2"
+        "php": ">=8.2",
+        "flightphp/core": "^3.19",
+        "zircote/swagger-php": "6.12"
     }
 }
